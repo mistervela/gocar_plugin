@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Lead Cars Form Plugin">
+    <serverData>
+      <paths name="Lead Cars Form Plugin">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="gocarsolutions/wp-admin" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,680 @@
+h1, h2, h3, h4, h5, h6 {
+	clear: both;
+	line-height: 1.4;
+	margin: 0 0 1em!important;
+	padding: 0.5em 0 0!important;
+}
+.invalid-feedback, .valid-feedback {
+
+	margin-bottom: 1rem!important;
+
+}
+
+#resultWrapper {
+
+	height:100px;
+	width: 100%;
+	text-align:center;
+	margin-top:15px;
+	margin-bottom:15px;
+	padding-bottom:15px;
+	color: #369;
+}
+
+#forms_list {
+	width:300px;
+	height:200px;
+	border-radius: 10px;
+	height:490px;
+
+}
+#formName_field {
+	font-size:16px!important;
+	width:305px;
+	border:none;
+}
+#shortcodes_panel {
+
+	
+	height:200px;
+	width:800px;
+	clear:left;
+	margin-left:300px;
+
+}
+
+#settings_left_panel {
+
+border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	
+	float:left;
+	width:520px;
+	height:300px;
+
+} 
+
+#formName {
+	width:360px;
+	height:45px;
+	padding:10px; 
+	border-radius: 10px;
+	
+	padding:10px;
+	
+	
+	float:left;
+	background-color:#cacaca;
+
+}
+#TemplateNameDiv {
+	width:310px;
+	height:45px;
+	padding-bottom:10px;
+	font-size:12px;
+	float:left;
+
+	
+
+}
+
+.settings_field {
+
+	width: 500px;
+
+}
+.save_button_wrapper {
+	float:left;
+	float:right;
+	padding-top:15px;
+	width:120px;
+
+}
+#form_details {
+	border-radius: 8px;
+	border: 2px solid #ddd;
+	background-color:#ddd;
+	margin-top:10px;
+	padding:10px;
+	width:360px;
+	height:605px;
+	float:left;
+}
+#templates_list {
+	width:240px;
+	height:330px;
+	border-radius: 10px;
+
+}
+#dropdown_list {
+	width:240px;
+	height:355px;
+	border-radius: 10px;
+
+} 
+#custom_dropdown_list {
+	width:240px;
+	height:325px;
+	border-radius: 10px;
+
+} 
+
+.submit {
+	margin-top:10px!important;
+}
+#shortcode_wrapper {
+
+	float:left;
+	border-radius: 10px;
+	font-size:15px;
+	width:220px;
+	height:20px;
+	color:#000;
+	
+	background:#fff;
+	padding:10px;
+	margin-bottom:10px;
+	text-align:center;
+
+}
+#shortcode_button_wrapper {
+	margin-left:10px;
+	float:left;
+	width:60px;
+	
+}
+
+
+#shortcode_label {
+
+	height:20px;
+	
+	margin-right:15px;
+	
+
+
+}
+
+#images_list {
+
+
+background:#fafafa;
+padding:15px;
+width:220px;
+height:460px;
+overflow-y: scroll;
+
+}
+
+#template_list {
+
+width: 300px;
+height: 180px;
+}
+
+#dropdown_items {
+
+width:300px;
+height:405px;
+}
+.template_form_field {
+
+	width: 470px;
+
+}
+#form_left_panel {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	
+	float:left;
+	width:310px;
+	height:680px;
+}
+
+#dropdowns_left_panel {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	
+	float:left;
+	width:640px;
+	height:560px;
+}
+.carform_first_panel_column {
+
+	float:left;
+
+}
+.carform_panel_column {
+
+	float:left;
+	margin-left:0px;
+	margin-top:0;
+	
+}
+.custom_panel_column {
+
+	float:left;
+	margin-left:30px;
+	margin-top:0;
+	
+}
+
+#new_custom_dropdown_input {
+	width:240px;
+
+}
+
+#new_drop_down_input {
+	width:240px;
+}
+#custom_dropdowns_left_panel {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	
+	float:left;
+	width:640px;
+	height:520px;
+
+}
+#dropwdowns_middle_panel {
+	border-radius: 8px;
+	margin-left:25px;
+	float:left;
+	width:310px;
+	height:500px;
+}
+#custom_dropwdowns_middle_panel {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	margin-left:15px;
+	float:left;
+	width:360px;
+	height:520px;
+}
+#dropdowns_right_panel {
+	border-radius: 8px;
+	border: 2px solid #cacaca;
+	background-color:#cacaca;
+	margin-left:15px;
+	padding:10px;
+	width:310px;
+	height:560px;
+	float:left;
+}
+#dropwdowns_buttons_panel {
+
+	float:left;
+	width:60px;
+
+}
+
+#dropdown_middle_list {
+	width:300px;
+	height: 330px;
+	margin-top: 10px;
+}
+
+
+
+#custom_dropdown_middle_list {
+	width:300px;
+	height: 330px;
+	margin-top: 10px;
+}
+#buttons_group {
+
+	margin-top:200px;
+}
+#vertical_buttons_group_1 {
+	width:50px;
+	float:left;
+	margin-top:120px;
+	
+}
+
+#vertical_buttons_group {
+	width:60px;
+	margin-top:90px;
+	
+}
+.arrow_buttons {
+
+	height:90px;
+	float:left;
+	width:40px;
+	
+	
+	margin-left:15px;
+}
+
+.vertical_arrow_buttons {
+
+	height:90px;
+	width:40px;
+	
+	
+	margin-left:15px;
+}
+
+#copied {
+
+	color:green;
+	text-align:center;
+	height:20px;
+	width:40px;
+	
+}
+
+#template_left_panel {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	
+	float:left;
+	width:250px;
+	height:540px;
+}
+
+
+#images_panel {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	padding:10px;
+	margin-left:20px;
+	float:left;
+	width:250px;
+	height:540px;
+}
+
+#tabs {
+	border-radius: 8px;
+	border: 2px solid #e1e1e1;
+	background-color:#e1e1e1;
+	margin-left:15px;
+	padding:10px;
+	width:620px;
+	height:auto;
+	float:left;
+
+}
+
+#form_right_panel {
+	border-radius: 8px;
+	
+	
+	margin-left:15px;
+	
+	width:364px;
+	height:510px;
+	float:left;
+
+}
+#right_panel {
+	border-radius: 8px;
+	border: 2px solid #cacaca;
+	background-color:#cacaca;
+	margin-left:15px;
+	padding:10px;
+	width:310px;
+	height:520px;
+	float:left;
+}
+
+#form_preview_panel {
+
+	border-radius: 8px;
+
+	margin-left:15px;
+	padding:10px;
+	width:310px;
+	height:520px;
+	float:left;
+
+}
+
+#template_toolbox_panel {
+	border-radius: 8px;
+	border: 2px solid #cacaca;
+	background-color:#cacaca;
+	margin-left:15px;
+	padding:10px;
+	width:180px;
+	height:500px;
+	float:left;
+
+}
+.toolbox_area  {
+display: inline-block;
+width: 100%;
+padding:5px;
+border-bottom:1px solid #aaa;
+width:170px;
+
+}
+.toolbox_area:hover {
+
+background-color:#e1e1e1;
+
+}
+#bottom_panel {
+	clear:left;
+	
+  	
+	
+	width:600px;
+	height:100px;
+	
+}
+.form-field {
+
+	padding-top:5px;
+	margin-top:5px;
+
+}
+
+#template_sourcecode {
+
+	font-family:"Courier";
+	font-size:11px;
+	line-height: 20px;
+	width:100%;
+	height:500px;
+	border:none;
+
+}
+
+#tabs {
+	min-height:550px;
+	height:auto;
+
+
+}
+
+#tabs-1 {
+	padding-top:30px;
+	font-size:12px;
+	background:#fff;
+	border:1px solid #aaa;
+	height:500px;
+    overflow-y: auto;
+    text-align:justify!important; 
+}
+
+#tabs-2 {
+	padding-top:30px;
+	font-size:12px;
+	background:#fff;
+	border:1px solid #aaa;
+	height:500px;
+
+}
+
+#tabs-2::-webkit-scrollbar {
+    -webkit-appearance: scrollbartrack-vertical;
+} 
+
+/************ JQUERY TABS ***********/
+
+.ui-tabs {
+	position: relative;/* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
+	padding: .2em;
+	background:#cacaca;
+}
+.ui-tabs .ui-tabs-nav {
+	margin: 0;
+	padding: .2em .2em 0;
+	background:none;
+	border:none;
+}
+.ui-tabs .ui-tabs-nav li {
+	list-style: none;
+	float: left;
+	position: relative;
+	top: 0;
+	margin: 1px .2em 0 0;
+	border-bottom: 0;
+	padding: 0;
+	white-space: nowrap;
+
+}
+.ui-tabs .ui-tabs-nav li a {
+	float: left;
+	padding: .5em 1em;
+	text-decoration: none;
+
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active {
+	margin-bottom: -1px;
+	padding-bottom: 1px;
+}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a,
+.ui-tabs .ui-tabs-nav li.ui-state-disabled a,
+.ui-tabs .ui-tabs-nav li.ui-tabs-loading a {
+	cursor: text;
+}
+.ui-tabs .ui-tabs-nav li a, /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-active a {
+	cursor: pointer;
+}
+.ui-tabs .ui-tabs-panel {
+	display: block;
+	border-width: 0;
+	padding: 1em 1.4em;
+	background: none;
+	border-top:1px solid #aaa;
+}
+.template_title {
+	font-size:16px!important;
+}
+.template_teaser {
+	font-size:14px!important;
+}
+.template_form_field {
+	font-size:12px!important;
+}
+.template_checkbox {
+	font-size:12px!important;
+}
+.template_small_print {
+	font-size:8px!important;
+}
+#new_template_input {
+	width:240px;
+
+}
+#new_form_input {
+	width:300px;
+}
+
+#bottom_panel {
+	padding-top:30px;
+	
+}
+
+#dropdown_notification_wrapper {
+	/*border-radius: 8px;
+	background-color:#d5dae6;*/
+	float:left;
+	width:120px;
+	height:20px;
+	color:#369;
+	margin-top:5px;
+	margin-left:10px;
+	
+	text-align:center;
+	float:left;
+	
+	
+
+	
+}
+
+#group_name {
+    width:195px;
+
+}
+
+#custom_dropdown_save {
+    float:right;
+}
+
+.form_button {
+	color: #fff;
+    background-color: #4888c9!important;
+    border-color: #4888c9!important;
+}
+.form_button:hover {
+
+	color: #fff;
+    background-color: #3b6fa6!important;
+    border-color: #4888c9!important;
+}
+
+#form_wrapper {
+
+	border:2px solid #ddd;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:20px;
+	padding-bottom:20px;
+	margin-bottom:30px!important;
+	margin-bottom:30px!important;
+}
+
+#state_notification_wrapper {
+
+	float:left;
+	width:160px;
+	height:20px;
+	color:#369;
+	margin-top:10px;
+	padding:10px;
+	text-align:center;
+	float:left;
+
+	
+
+	
+}
+#form_save_notification {
+	color:#369;
+	font-size:14px;
+}
+#state_notification, #form_notification {
+	/*border-radius: 8px;
+	background-color:#d5dae6;*/
+
+	color:#369;
+	font-size:14px;
+
+	
+}
+#csv_notification {
+	/*border-radius: 8px;
+	background-color:#d5dae6;*/
+
+	color:#369;
+	font-size:14px;
+	margin-left:10px;
+	float:left;
+	margin-top:5px;
+	
+}
+#template_name {
+	color:#000!important;
+}
+#rename_custom_drop_down, #rename_drop_down {
+	margin-left:10px;
+}
+
+#dealer_details {
+	height:20px;
+	clear:left;
+	padding-top:10px;
+}
+
+.save-button {
+    background-color: #58ba00!important;
+    border-color: #3f8600!important;
+
+    background: #58ba00;
+    border-color: #0073aa #006799 #006799;
+    box-shadow: 0 1px 0 #006799;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: 0 -1px 1px #006799, 1px 0 1px #006799, 0 1px 1px #006799, -1px 0 1px #006799;
+}
+
+

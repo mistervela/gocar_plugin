@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e53230a3-e97b-4581-bcdf-8d13c995788a" name="Default" comment="- Settings Create SQL Table tweaked&#10;- Fixed type in main app title (lead to Leads)">
+      <change beforePath="$PROJECT_DIR$/leads-form.php" beforeDir="false" afterPath="$PROJECT_DIR$/leads-form.php" afterDir="false" />
+    </list>
+    <list id="1b773208-b67a-472d-91f3-6dc8771d05e4" name="Form Validation Implemented, plugin icon added, Database storage implemented, Form submission database added to plugin activation" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="leads-form.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/leads-form.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="689" column="22" selection-start-line="689" selection-start-column="11" selection-end-line="689" selection-end-column="22" />
+              <folding>
+                <element signature="e#6#268#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bitbucket-pipelines.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="execute.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/execute.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wcar_forms_styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8955">
+              <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wcar_forms_ajax.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7440">
+              <caret line="496" selection-start-line="496" selection-end-line="496" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id=&quot;state_notification_wrapper&quot;</find>
+      <find>Template Saved</find>
+      <find>wcar_car_dealers_submissions</find>
+      <find>dealers_submissions</find>
+      <find>$wpdb-&gt;submissions</find>
+      <find>custom_drop_down_input_index</find>
+      <find>dropdown_create</find>
+      <find>custom_dropdown_create</find>
+      <find>create_dropdown</find>
+      <find>bundle</find>
+      <find>index</find>
+      <find>new_drop_down_input</find>
+      <find>$last</find>
+      <find>forms_list</find>
+      <find>new_form</find>
+      <find>create_drop</find>
+      <find>template_new</find>
+      <find>state_notification_wrapper</find>
+      <find>_OLD</find>
+      <find>rename</find>
+      <find>ORIGIN</find>
+      <find>save</find>
+      <find>group_name</find>
+      <find>form_save</find>
+      <find>Save Changes</find>
+      <find>bootstrap</find>
+      <find>$bootstrap_css</find>
+      <find>settings</find>
+      <find>AJAX_FULL_URL</find>
+      <find>json_decode</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>let</replace>
+      <replace>===</replace>
+      <replace>!==</replace>
+      <replace>mb-1</replace>
+      <replace>valid-feedback</replace>
+      <replace>&amp;#39;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JC Vela &lt;jcvela@gocar.be&gt;" />
+        <option value="JC Vela" />
+        <option value="jcvela@gocar.be" />
+        <option value="jcvela" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/js/custom_ajax.js" />
+        <option value="$PROJECT_DIR$/template_model_fr.txt" />
+        <option value="$PROJECT_DIR$/template_model_nl.txt" />
+        <option value="$PROJECT_DIR$/js/wcar_forms_ajax.js" />
+        <option value="$PROJECT_DIR$/css/wcar_forms_styles.css" />
+        <option value="$PROJECT_DIR$/execute.sh" />
+        <option value="$PROJECT_DIR$/bitbucket-pipelines.yml" />
+        <option value="$PROJECT_DIR$/leads-form.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/../../../../gocar/gocar.be/includes" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="586" />
+    <option name="y" value="206" />
+    <option name="width" value="1954" />
+    <option name="height" value="1171" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leads-form" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leads-form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leads-form" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leads-form" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leads-form" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leads-form" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leads-form" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leads-form" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e53230a3-e97b-4581-bcdf-8d13c995788a" name="Default" comment="" />
+      <changelist id="1b773208-b67a-472d-91f3-6dc8771d05e4" name="Form Validation Implemented, plugin icon added, Database storage implemented, Form submission database added to plugin activation" comment="" />
+      <created>1587641919471</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587641919471</updated>
+      <workItem from="1587641920652" duration="5230000" />
+      <workItem from="1587649787468" duration="5049000" />
+      <workItem from="1587664514075" duration="18427000" />
+      <workItem from="1588158288416" duration="23046000" />
+      <workItem from="1588230862504" duration="11348000" />
+      <workItem from="1588325373760" duration="44161000" />
+      <workItem from="1588682434012" duration="573000" />
+      <workItem from="1588683931307" duration="309000" />
+      <workItem from="1589109861415" duration="27000" />
+      <workItem from="1589109908556" duration="5000" />
+      <workItem from="1589109948861" duration="48000" />
+    </task>
+    <task id="LOCAL-00001" summary="État initial du code du plugin">
+      <created>1587664651330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587664651330</updated>
+    </task>
+    <task id="LOCAL-00002" summary="État initial du code du plugin">
+      <created>1587665235181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587665235181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Templates content en français et neerlandais">
+      <created>1587665709199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587665709199</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Templates content en français et neerlandais">
+      <created>1587665819681</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587665819681</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ajax Code implemented for the form">
+      <created>1587752327872</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587752327872</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Form Validation Implemented, plugin icon added, Database storage implemented, Form submission database added to plugin activation">
+      <created>1588247362026</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588247362026</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Form Validation Implemented, plugin icon added, Database storage implemented, Form submission database added to plugin activation">
+      <created>1588247419664</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1588247419664</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Form Validation Implemented, plugin icon added, Database storage implemented, Form submission database added to plugin activation">
+      <created>1588247849345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588247849345</updated>
+    </task>
+    <task id="LOCAL-00009" summary="- Settings Ajax url added &#10;- Default templates added when plugin activated&#10;- Bootstrap included added to shorcode rendered form&#10;- Template Editor reduced in width&#10;- Template New Function fixed">
+      <created>1588368214769</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1588368214769</updated>
+    </task>
+    <task id="LOCAL-00010" summary="- Fixed Submissions Table Creation">
+      <created>1588369216098</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1588369216098</updated>
+    </task>
+    <task id="LOCAL-00011" summary="- Javascript Validation Fixes">
+      <created>1588582992383</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1588582992383</updated>
+    </task>
+    <task id="LOCAL-00012" summary="- Code Cleaned up">
+      <created>1588592171100</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588592171100</updated>
+    </task>
+    <task id="LOCAL-00013" summary="- Save Button in Custom Drop Downs relocated">
+      <created>1588604138572</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1588604138572</updated>
+    </task>
+    <task id="LOCAL-00014" summary="- Save Button in Custom Drop Downs relocated">
+      <created>1588604923344</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1588604923344</updated>
+    </task>
+    <task id="LOCAL-00015" summary="- Icon button added">
+      <created>1588605949703</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1588605949703</updated>
+    </task>
+    <task id="LOCAL-00016" summary="- Minor changes to CSS y Javascript clean up">
+      <created>1588606035794</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1588606035794</updated>
+    </task>
+    <task id="LOCAL-00017" summary="- Save Button in Custom Drop Down relocation">
+      <created>1588606758062</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1588606758062</updated>
+    </task>
+    <task id="LOCAL-00018" summary="- Save Button in Custom Drop Down relocation">
+      <created>1588607131728</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1588607131728</updated>
+    </task>
+    <task id="LOCAL-00019" summary="- Bitbucket-pipelines added">
+      <created>1588616286276</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1588616286276</updated>
+    </task>
+    <task id="LOCAL-00020" summary="- Added deployment entry to bitbucket-pipelines.yml">
+      <created>1588617518437</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1588617518437</updated>
+    </task>
+    <task id="LOCAL-00021" summary="- Added deployment entry to bitbucket-pipelines.yml">
+      <created>1588617607788</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1588617607788</updated>
+    </task>
+    <task id="LOCAL-00022" summary="- Added deployment entry to bitbucket-pipelines.yml">
+      <created>1588617674237</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1588617674237</updated>
+    </task>
+    <task id="LOCAL-00023" summary="- Added deployment entry to bitbucket-pipelines.yml">
+      <created>1588617782396</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1588617782396</updated>
+    </task>
+    <task id="LOCAL-00024" summary="- Added deployment entry to bitbucket-pipelines.yml">
+      <created>1588618016710</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1588618016710</updated>
+    </task>
+    <task id="LOCAL-00025" summary="- Fixed slashed quotes in $bootstrap_css link path">
+      <created>1588665323152</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1588665323152</updated>
+    </task>
+    <task id="LOCAL-00026" summary="- Fixed Auto increment for Settings Table">
+      <created>1588666547722</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1588666547722</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108223000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="586" y="206" width="1954" height="1171" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2691914" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50460595" side_tool="true" visible="true" weight="0.40200546" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49539405" visible="true" weight="0.40200546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="7" sideWeight="0.49947917" visible="true" weight="0.32992566" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32992566" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="form_submission" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="État initial du code du plugin" />
+    <MESSAGE value="Templates content en français et neerlandais" />
+    <MESSAGE value="Ajax Code implemented for the form" />
+    <MESSAGE value="Form Validation Implemented, plugin icon added, Database storage implemented, Form submission database added to plugin activation" />
+    <MESSAGE value="- Settings Ajax url added &#10;- Default templates added when plugin activated&#10;- Bootstrap included added to shorcode rendered form&#10;- Template Editor reduced in width&#10;- Template New Function fixed" />
+    <MESSAGE value="- Fixed Submissions Table Creation" />
+    <MESSAGE value="- Javascript Validation Fixes" />
+    <MESSAGE value="- Code Cleaned up" />
+    <MESSAGE value="- Save Button in Custom Drop Downs relocated" />
+    <MESSAGE value="- Icon button added" />
+    <MESSAGE value="- Minor changes to CSS y Javascript clean up" />
+    <MESSAGE value="- Save Button in Custom Drop Down relocation" />
+    <MESSAGE value="- Bitbucket-pipelines added" />
+    <MESSAGE value="- Added deployment entry to bitbucket-pipelines.yml" />
+    <MESSAGE value="- Fixed slashed quotes in $bootstrap_css link path" />
+    <MESSAGE value="- Fixed Auto increment for Settings Table" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Fixed Auto increment for Settings Table" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/../../..</wordpressPath>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10380">
+          <caret line="692" column="4" selection-start-line="692" selection-start-column="4" selection-end-line="692" selection-end-column="34" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10380">
+          <caret line="692" column="32" selection-start-line="692" selection-start-column="12" selection-end-line="692" selection-end-column="32" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="59" column="35" lean-forward="true" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8325">
+          <caret line="555" lean-forward="true" selection-start-line="555" selection-end-line="555" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62670">
+          <caret line="4178" column="22" selection-start-line="4178" selection-start-column="9" selection-end-line="4178" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22260">
+          <caret line="1484" lean-forward="true" selection-start-line="1484" selection-end-line="1484" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46455">
+          <caret line="3105" column="22" selection-start-line="3105" selection-start-column="18" selection-end-line="3105" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6705">
+          <caret line="447" column="37" selection-start-line="447" selection-start-column="37" selection-end-line="447" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45840">
+          <caret line="3064" column="37" selection-start-line="3064" selection-start-column="9" selection-end-line="3064" selection-end-column="37" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom_ajax.js" />
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom_ajax.js" />
+    <entry file="file://$PROJECT_DIR$/template_model_nl.txt" />
+    <entry file="file://$PROJECT_DIR$/template_model_fr.txt" />
+    <entry file="file://$PROJECT_DIR$/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/js/custom_ajax.js" />
+    <entry file="file://$PROJECT_DIR$/css/wcar_forms_styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8955">
+          <caret line="597" column="20" selection-start-line="597" selection-start-column="20" selection-end-line="597" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/wcar_forms_ajax.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7440">
+          <caret line="496" selection-start-line="496" selection-end-line="496" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/execute.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitbucket-pipelines.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leads-form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="689" column="22" selection-start-line="689" selection-start-column="11" selection-end-line="689" selection-end-column="22" />
+          <folding>
+            <element signature="e#6#268#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
